@@ -3,8 +3,8 @@ package additions;
 public class second {
     public static void main(String args[])
     {
-    int a=20;
-    int b=70;
+    int a=100;
+    int b=100;
     int sum=a+b;
     System.out.println(sum);
     }
