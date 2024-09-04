@@ -6,10 +6,6 @@ class yash3{
         int sum=a+b+c;
         int a=sc.nextInt();
         System.out.println(sum);
-
+        System.out.println(sum);
     }
-    public static void main(String[] args){
-        narendra("yashwanth",18);
-    }
-
 }
